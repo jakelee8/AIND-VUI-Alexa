@@ -1,4 +1,42 @@
 GetNewFactIntent a fact
-GetNewFactIntent tell me a fact
+GetNewFactIntent a fact about film history
+GetNewFactIntent a fact about films
 GetNewFactIntent give me a fact
+GetNewFactIntent give me a fact about film history
+GetNewFactIntent give me a fact about films
+GetNewFactIntent give me information
+GetNewFactIntent give me information about films
+GetNewFactIntent give me information about film history
 GetNewFactIntent give me something
+GetNewFactIntent give me something about film history
+GetNewFactIntent give me something about films
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a fact about film history
+GetNewFactIntent tell me a fact about films
+GetNewFactIntent tell me about film history
+GetNewFactIntent tell me about films
+GetNewFactIntent tell me information
+GetNewFactIntent tell me information about films
+GetNewFactIntent tell me information about film history
+GetNewFactIntent tell me something about film history
+GetNewFactIntent tell me something about films
+GetNewFactIntent what do you know about film history
+GetNewFactIntent what do you know about films
+GetNewYearFactIntent for {FACT_YEAR} give me a fact
+GetNewYearFactIntent for {FACT_YEAR} give me information
+GetNewYearFactIntent for {FACT_YEAR} give me something
+GetNewYearFactIntent for {FACT_YEAR} tell me a fact
+GetNewYearFactIntent for {FACT_YEAR} tell me information
+GetNewYearFactIntent for {FACT_YEAR} tell me something
+GetNewYearFactIntent from {FACT_YEAR} give me a fact
+GetNewYearFactIntent from {FACT_YEAR} give me something
+GetNewYearFactIntent from {FACT_YEAR} tell me a fact
+GetNewYearFactIntent from {FACT_YEAR} tell me something
+GetNewYearFactIntent give me a fact for {FACT_YEAR}
+GetNewYearFactIntent give me a fact from {FACT_YEAR}
+GetNewYearFactIntent give me information for {FACT_YEAR}
+GetNewYearFactIntent give me information from {FACT_YEAR}
+GetNewYearFactIntent give me something for {FACT_YEAR}
+GetNewYearFactIntent give me something from {FACT_YEAR}
+GetNewYearFactIntent tell me a fact for {FACT_YEAR}
+GetNewYearFactIntent tell me a fact from {FACT_YEAR}
